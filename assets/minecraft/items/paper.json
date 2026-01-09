@@ -119,6 +119,13 @@
                     "type": "model",
                     "model": "item/potatoes"
                 }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "item/waffle"
+                }
             }
         ]
     }
