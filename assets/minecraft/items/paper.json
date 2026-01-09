@@ -117,14 +117,14 @@
                 "threshold": 16,
                 "model": {
                     "type": "model",
-                    "model": "item/potatoes"
+                    "model": "block/custom/potatoes"
                 }
             },
             {
                 "threshold": 17,
                 "model": {
                     "type": "model",
-                    "model": "item/waffle"
+                    "model": "block/custom/waffle"
                 }
             },
             {
