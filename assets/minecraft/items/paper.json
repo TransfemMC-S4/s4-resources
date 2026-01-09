@@ -54,49 +54,49 @@
                 "threshold": 7,
                 "model": {
                     "type": "model",
-                    "model": "item/catears_black"
+                    "model": "block/custom/catears_black"
                 }
             },
             {
                 "threshold": 8,
                 "model": {
                     "type": "model",
-                    "model": "item/catears_cream"
+                    "model": "block/custom/catears_cream"
                 }
             },
             {
                 "threshold": 9,
                 "model": {
                     "type": "model",
-                    "model": "item/catears_orange"
+                    "model": "block/custom/catears_orange"
                 }
             },
             {
                 "threshold": 10,
                 "model": {
                     "type": "model",
-                    "model": "item/catears_pink"
+                    "model": "block/custom/catears_pink"
                 }
             },
             {
                 "threshold": 11,
                 "model": {
                     "type": "model",
-                    "model": "item/catears_white"
+                    "model": "block/custom/catears_white"
                 }
             },
             {
                 "threshold": 12,
                 "model": {
                     "type": "model",
-                    "model": "item/dogears"
+                    "model": "block/custom/dogears"
                 }
             },
             {
                 "threshold": 13,
                 "model": {
                     "type": "model",
-                    "model": "item/dogtail"
+                    "model": "block/custom/dogtail"
                 }
             },
             {
