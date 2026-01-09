@@ -131,7 +131,7 @@
                 "threshold": 18,
                 "model": {
                     "type": "model",
-                    "model": "item/cowboy_hat"
+                    "model": "block/custom/cowboy_hat"
                 }
             }
         ]
