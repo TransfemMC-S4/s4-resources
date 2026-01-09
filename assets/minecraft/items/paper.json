@@ -126,6 +126,13 @@
                     "type": "model",
                     "model": "item/waffle"
                 }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "item/cowboy_hat"
+                }
             }
         ]
     }
