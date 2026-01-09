@@ -1,0 +1,46 @@
+{
+  "tfh.click2": {"sounds": ["tfh/click2"] },
+  "tfh.hide": {"sounds": ["tfh/hide"] },
+  "tfh.info": {"sounds": ["tfh/info"] },
+  "tfh.caught": {"sounds": ["tfh/caught"] },
+  "tfh.caught2": {"sounds": ["tfh/caught2"] },
+  "tfh.seeker": {"sounds": ["tfh/seeker"] },
+  "tfh.alert": {"sounds": ["tfh/alert"] },
+  "tfh.click": {"sounds": ["tfh/click"] },
+  "tfh.logictrance": {"sounds": ["tfh/trancelogic"] },
+  "tfh.alert2": {"sounds": ["tfh/alert2"] },
+  "tfh.next": {"sounds": ["tfh/next"] },
+  "music.dragon": {
+    "sounds": [
+      {
+        "name": "music/game/end/boss",
+        "replace": true,
+        "weight": 10000000,
+        "stream": true,
+        "volume": 0.5
+        
+      }
+    ]
+  },
+  "music.dragon_ambience": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/end/boss",
+        "weight": 10000000,
+        "stream": true
+         
+      }
+    ]
+  },
+  "entity.ender_dragon.death": {
+    "sounds": [
+      {
+      "name": "mob/enderdragon/end",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.death"
+  }
+
+}
+
