@@ -114,10 +114,10 @@
                 }
             },
             {
-                "threshold": 16,
+                "threshold": 15,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/potatoes"
+                    "model": "block/custom/tavernportal"
                 }
             },
             {
