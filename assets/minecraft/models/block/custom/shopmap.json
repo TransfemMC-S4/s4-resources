@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custombackmap",
+		"0": "block/custom/backmap",
 		"2": "block/custom/shoppingmap",
 		"3": "block/custom/sidesmap",
 		"particle": "block/custom/backmap"
@@ -33,11 +33,11 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -180, 0],
-			"translation": [-9, 12, 3]
+			"translation": [-9, 12, 2]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 180, 0],
-			"translation": [-9, 12, 3]
+			"translation": [-9, 12, 2]
 		},
 		"ground": {
 			"translation": [0, 6, 0]
