@@ -10,6 +10,7 @@
   "tfh.logictrance": {"sounds": ["tfh/trancelogic"] },
   "tfh.alert2": {"sounds": ["tfh/alert2"] },
   "tfh.next": {"sounds": ["tfh/next"] },
+  "tfh.victory": {"sounds": ["tfh/victory"] },
   "music.dragon": {
     "sounds": [
       {
