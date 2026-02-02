@@ -147,6 +147,13 @@
                     "type": "model",
                     "model": "block/custom/tavernmap"
                 }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/equestrians-hat"
+                }
             }
         ]
     }
