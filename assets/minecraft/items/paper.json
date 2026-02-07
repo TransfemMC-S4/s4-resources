@@ -103,14 +103,14 @@
                 "threshold": 14,
                 "model": {
                     "type": "model",
-                    "model": "item/end"
+                    "model": "block/custom/end"
                 }
             },
             {
                 "threshold": 15,
                 "model": {
                     "type": "model",
-                    "model": "item/mayor_ballot"
+                    "model": "block/custom/mayor_ballot"
                 }
             },
             {
@@ -142,14 +142,14 @@
                 }
             },
             {
-                "threshold": 19,
+                "threshold": 20,
                 "model": {
                     "type": "model",
                     "model": "block/custom/tavernmap"
                 }
             },
             {
-                "threshold": 20,
+                "threshold": 21,
                 "model": {
                     "type": "model",
                     "model": "block/custom/equestrians-hat"

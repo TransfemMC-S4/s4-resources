@@ -22,20 +22,6 @@
                 }
             },
             {
-                "threshold": 3,
-                "model": {
-                    "type": "model",
-                    "model": "block/custom/postbox"
-                }
-            },
-            {
-                "threshold": 4,
-                "model": {
-                    "type": "model",
-                    "model": "block/custom/atara_staff"
-                }
-            },
-            {
                 "threshold": 5,
                 "model": {
                     "type": "model",
