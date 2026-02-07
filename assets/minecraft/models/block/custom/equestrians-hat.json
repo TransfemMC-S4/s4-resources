@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "block/chiseled_sandstone",
-		"2": "equestrians-hat",
-		"3": "equestrians-emblem"
+		"2": "block/custom/equestrians-hat",
+		"3": "block/custom/equestrians-emblem"
 	},
 	"elements": [
 		{
