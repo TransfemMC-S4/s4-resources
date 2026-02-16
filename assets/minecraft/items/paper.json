@@ -154,6 +154,13 @@
                     "type": "model",
                     "model": "block/custom/equestrians-hat"
                 }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/chefshat"
+                }
             }
         ]
     }
