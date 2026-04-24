@@ -168,7 +168,7 @@
                     "type": "model",
                     "model": "block/custom/flowetoken"
                 }
-                }
+            }
         ]
     }
 }
