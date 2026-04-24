@@ -173,20 +173,6 @@
                 "threshold": 24,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/flowetoken"
-                }
-            },
-            {
-                "threshold": 25,
-                "model": {
-                    "type": "model",
-                    "model": "block/custom/strawberry_hat"
-                }
-            },
-            {
-                "threshold": 26,
-                "model": {
-                    "type": "model",
                     "model": "block/custom/flowercrown"
                 }
             }
