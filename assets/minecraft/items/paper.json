@@ -177,7 +177,7 @@
                 }
             },
             {
-                "threshold": 24,
+                "threshold": 25,
                 "model": {
                     "type": "model",
                     "model": "block/custom/strawberry_hat"
