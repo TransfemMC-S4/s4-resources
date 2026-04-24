@@ -175,6 +175,13 @@
                     "type": "model",
                     "model": "block/custom/flowercrown"
                 }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/flowertoken"
+                }
             }
         ]
     }
