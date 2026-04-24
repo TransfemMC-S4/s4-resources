@@ -11,7 +11,6 @@
   "tfh.alert2": {"sounds": ["tfh/alert2"] },
   "tfh.next": {"sounds": ["tfh/next"] },
   "tfh.victory": {"sounds": ["tfh/victory"] },
-  "tfh.freezingcold": {"sounds": ["tfh/freezingcold"] },
   "music.dragon": {
     "sounds": [
       {
