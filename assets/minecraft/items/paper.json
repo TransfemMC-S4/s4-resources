@@ -167,8 +167,9 @@
                 "model": {
                     "type": "model",
                     "model": "block/custom/flowetoken"
-             },
-             {
+                }
+            },
+            {
                 "threshold": 24,
                 "model": {
                     "type": "model",
