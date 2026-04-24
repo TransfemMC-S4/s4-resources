@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "grasscrown",
-		"1": "blueflower",
-		"particle": "grasscrown"
+		"0": "block/custom/grasscrown",
+		"1": "block/custom/blueflower",
+		"particle": "block/custom/grasscrown"
 	},
 	"elements": [
 		{
