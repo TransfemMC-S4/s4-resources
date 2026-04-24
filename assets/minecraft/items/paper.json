@@ -161,6 +161,13 @@
                     "type": "model",
                     "model": "block/custom/chefshat"
                 }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/missing"
+                }
             }
         ]
     }
