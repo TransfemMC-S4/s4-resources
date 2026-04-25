@@ -182,6 +182,20 @@
                     "type": "model",
                     "model": "block/custom/flowertoken"
                 }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/springbonnet"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/mushroomhat"
+                }
             }
         ]
     }
