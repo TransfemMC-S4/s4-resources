@@ -203,6 +203,13 @@
                     "type": "model",
                     "model": "block/custom/strawberryhat"
                 }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/beehat"
+                }
             }
         ]
     }
