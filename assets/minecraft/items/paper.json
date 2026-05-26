@@ -210,6 +210,20 @@
                     "type": "model",
                     "model": "block/custom/beehat"
                 }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/victorianumbrella"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/plaincane"
+                }
             }
         ]
     }
