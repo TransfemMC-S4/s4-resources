@@ -224,6 +224,13 @@
                     "type": "model",
                     "model": "block/custom/plaincane"
                 }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/bav"
+                }
             }
         ]
     }
